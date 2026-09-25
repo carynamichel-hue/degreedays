@@ -18,6 +18,7 @@ interesting part). The commit history of the source repo carries the code.
 | [04-backup-share-excel.md](04-backup-share-excel.md) | Backup, restore, share links with a QR code, Excel, the token rule |
 | [05-phone-pwa-offline.md](05-phone-pwa-offline.md) | Step 3: phone layout, install to home screen, offline, and the bug only the built site showed |
 | [06-guide-deploy.md](06-guide-deploy.md) | The guide page, this folder, the deploy script |
+| [07-final-review-per-pest-bases.md](07-final-review-per-pest-bases.md) | The final review (ten defects behind green probes) and a pest read on its own base |
 | [HOW-TO-CUSTOMIZE.md](HOW-TO-CUSTOMIZE.md) | For the workshop: make it yours on a branch, live |
 
 ## The habits that mattered
